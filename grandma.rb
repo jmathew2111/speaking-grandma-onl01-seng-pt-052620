@@ -1,5 +1,5 @@
 def speak_to_grandma(string)
-  if string == "LOVE YOU GRANDMA!"
+  if string == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string == "Hi Nana, how are you?"
    return "HUH?! SPEAK UP, SONNY!"
